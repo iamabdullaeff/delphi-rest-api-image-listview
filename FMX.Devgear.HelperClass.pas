@@ -1,9 +1,3 @@
-{*****************************************************************************}
-{ @unit   FMX.Devgear.HelperClass                                             }
-{ @data   2013/12/15                                                          }
-{ @author Humphery(hjfactory@gmail.com) of devgear.co.kr                      }
-{         - http://blog.hjf.pe.kr/                                            }
-{*****************************************************************************}
 unit FMX.Devgear.HelperClass;
 
 interface
