@@ -3,8 +3,8 @@
 Your Rest API Params <br>
 Api URL: http://api.domain.com/v1/controller/function/function (required) <br>
 Api Masterkey: ****** (optional) <br>
-Page Number for Pagination: page_number <br>
-Limit for Pagination : limit <br>
+Page Number for Pagination: page_number (required) <br>
+Limit for Pagination : limit (required) <br>
 <br><br>
 <hr>
 JSON Response Format:
