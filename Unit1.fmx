@@ -1,0 +1,86 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 542
+  ClientWidth = 416
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 3
+  object ToolBar1: TToolBar
+    Size.Width = 416.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'toolbarstyle'
+    TabOrder = 0
+    object Button1: TButton
+      Align = Right
+      Position.X = 200.000000000000000000
+      Size.Width = 216.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'First Load'
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Align = Left
+      Size.Width = 193.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Load More'
+      OnClick = Button2Click
+    end
+  end
+  object ListView1: TListView
+    ItemAppearanceClassName = 'TImageListItemBottomDetailAppearance'
+    ItemEditAppearanceClassName = 'TImageListItemBottomDetailShowCheckAppearance'
+    HeaderAppearanceClassName = 'TListHeaderObjects'
+    FooterAppearanceClassName = 'TListHeaderObjects'
+    ItemSpaces.Top = 10.000000000000000000
+    ItemSpaces.Right = 10.000000000000000000
+    ItemSpaces.Bottom = 10.000000000000000000
+    Align = Client
+    Size.Width = 416.000000000000000000
+    Size.Height = 494.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    ItemAppearance.ItemHeight = 50
+    ItemAppearanceObjects.ItemObjects.Text.Font.Family = 'Palatino Linotype'
+    ItemAppearanceObjects.ItemObjects.Text.Font.Size = 14.000000000000000000
+    ItemAppearanceObjects.ItemObjects.Text.Font.Style = [fsBold]
+    ItemAppearanceObjects.ItemObjects.Text.TextVertAlign = Leading
+    ItemAppearanceObjects.ItemObjects.Text.TextColor = claSlategray
+    ItemAppearanceObjects.ItemObjects.Detail.WordWrap = True
+    ItemAppearanceObjects.ItemObjects.Detail.TextColor = claBlack
+    ItemAppearanceObjects.ItemObjects.Image.Width = 45.000000000000000000
+    ItemAppearanceObjects.ItemObjects.Image.Height = 45.000000000000000000
+    OnItemClick = ListView1ItemClick
+    SelectionCrossfade = True
+  end
+  object RESTClient1: TRESTClient
+    Params = <>
+    HandleRedirects = True
+    UserAgent = 
+      'Mozilla/5.0 (Windows NT 6.1; WOW64;rv:12.0) Gecko/20100101 Firef' +
+      'ox/12.0'
+    Left = 88
+    Top = 264
+  end
+  object RESTRequest1: TRESTRequest
+    Client = RESTClient1
+    Method = rmPOST
+    Params = <>
+    Response = RESTResponse1
+    SynchronizedEvents = False
+    Left = 80
+    Top = 208
+  end
+  object RESTResponse1: TRESTResponse
+    Left = 80
+    Top = 160
+  end
+end

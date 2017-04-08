@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/06 22:33:54.000.648,=C:\Users\Esger\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/06 22:34:35.000.274,C:\Users\Esger\Desktop\rifleman\test\Unit1.fmx=C:\Users\Esger\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017/04/06 22:34:35.000.274,C:\Users\Esger\Desktop\rifleman\test\Unit1.pas=C:\Users\Esger\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/06 22:34:36.000.689,C:\Users\Esger\Desktop\rifleman\test\Project1.dproj=C:\Users\Esger\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/04/07 03:23:06.000.575,=C:\Users\Esger\Desktop\rifleman\test\superobject.pas</Transaction>
+    <Transaction>2017/04/07 03:24:09.000.688,=C:\Users\Esger\Desktop\rifleman\test\supertypes.pas</Transaction>
+    <Transaction>2017/04/07 03:24:55.000.729,=C:\Users\Esger\Desktop\rifleman\test\superdate.pas</Transaction>
+    <Transaction>2017/04/07 03:25:21.000.610,=C:\Users\Esger\Desktop\rifleman\test\supertimezone.pas</Transaction>
+    <Transaction>2017/04/07 03:25:21.000.620,=C:\Users\Esger\Desktop\rifleman\test\superxmlparser.pas</Transaction>
+    <Transaction>2017/04/07 03:32:13.000.826,C:\Users\Esger\Desktop\rifleman\test\supertypes.pas=</Transaction>
+    <Transaction>2017/04/07 03:32:13.000.905,C:\Users\Esger\Desktop\rifleman\test\superdate.pas=</Transaction>
+    <Transaction>2017/04/07 03:32:13.000.858,C:\Users\Esger\Desktop\rifleman\test\supertimezone.pas=</Transaction>
+    <Transaction>2017/04/07 03:32:13.000.796,C:\Users\Esger\Desktop\rifleman\test\superxmlparser.pas=</Transaction>
+    <Transaction>2017/04/07 03:32:13.000.883,C:\Users\Esger\Desktop\rifleman\test\superobject.pas=</Transaction>
+    <Transaction>2017/04/07 03:33:45.000.702,=C:\Users\Esger\Desktop\rifleman\test\XSuperJSON.pas</Transaction>
+    <Transaction>2017/04/07 03:33:45.000.715,=C:\Users\Esger\Desktop\rifleman\test\XSuperObject.pas</Transaction>
+    <Transaction>2017/04/07 03:42:16.000.805,C:\Users\Esger\Desktop\rifleman\test\XSuperObject.pas=</Transaction>
+    <Transaction>2017/04/07 03:42:16.000.833,C:\Users\Esger\Desktop\rifleman\test\XSuperJSON.pas=</Transaction>
+    <Transaction>2017/04/07 03:43:08.000.466,=C:\Users\Esger\Desktop\rifleman\test\XSuperObject.pas</Transaction>
+    <Transaction>2017/04/07 03:43:08.000.452,=C:\Users\Esger\Desktop\rifleman\test\XSuperJSON.pas</Transaction>
+    <Transaction>2017/04/07 20:33:44.000.594,=C:\Users\Esger\Desktop\rifleman\test\image\no_image.png</Transaction>
+    <Transaction>2017/04/07 21:29:37.000.554,=C:\Users\Esger\Desktop\rifleman\test\FMX.Devgear.HelperClass.pas</Transaction>
+    <Transaction>2017/04/07 21:30:43.000.012,=C:\Users\Esger\Desktop\rifleman\test\AnonThread.pas</Transaction>
+    <Transaction>2017/04/08 02:50:07.000.812,=C:\Users\Esger\Desktop\rifleman\test\Unit2.pas</Transaction>
+    <Transaction>2017/04/08 02:50:25.000.521,=C:\Users\Esger\Desktop\rifleman\test\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="21012a686d68234a"/>
+	</ActiveMobileDevice>
+</BorlandProject>
