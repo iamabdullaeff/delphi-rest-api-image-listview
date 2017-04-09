@@ -14,3 +14,13 @@ JSON Response Format:
 <hr>
 
 *Notification: Adding no_image.png your resource data (Project => Resource and Images).
+
+<pre>
+<h1>Supported Platform</h1>
+Windows 32/64<br>
+MacOSX Sierra<br>
+Linux 64 <br>
+Android <br>
+IOS 10 <br>
+Windows Phone<br>
+</pre>
